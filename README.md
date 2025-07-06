@@ -1,2 +1,2 @@
 ## Google calender 
-Fetch metting list from google calender.
+Fetch meeting list from google calender.
